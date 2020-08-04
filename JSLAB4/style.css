@@ -1,0 +1,48 @@
+/* .lightbulb {
+  background-color: grey;
+  border-radius: 10px;
+  cursor: pointer;
+  color: #fff;
+  font-size: 14px;
+  padding: 12px;
+  text-decoration: none;
+} */
+/* .onoff {
+  background-color: grey;
+} */
+section {
+  margin-bottom: 20px;
+}
+
+.coin {
+  border-radius: 50%;
+}
+.penny {
+  width: 50px;
+  height: 50px;
+  background-color: brown;
+}
+.nickel {
+  width: 55px;
+  height: 55px;
+  background-color: grey;
+}
+.dime {
+  width: 40px;
+  height: 40px;
+  background-color: darkgrey;
+}
+.quarters {
+  width: 75px;
+  height: 75px;
+  background-color: yellow;
+}
+
+.bulb {
+  width: 100px;
+  height: 200px;
+  background-color: darkgray;
+}
+.light {
+  background-color: gold;
+}

@@ -1,0 +1,57 @@
+@font-family: 'Open Sans', sans-serif;
+
+body  {
+        background-color: #f9fafc;
+        font-family: 'Open Sans', sans-serif;
+        color: #69696a;
+        padding: 20px;
+}
+.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0px;
+}
+
+
+
+.navbar{
+    text-decoration: none;
+    color: #69696a;
+    padding: 5px;
+}
+
+
+
+.button{
+    margin: 0 auto;
+    background-color:#000;
+	border-radius:25px;
+	display:center;
+	cursor:pointer;
+	color:#FFF;
+	font-family: 'Open Sans', sans-serif;
+	font-size:14px;
+	font-weight:bold;
+    padding:12px;
+    text-align: center;
+    text-decoration:none;
+    display:block;
+
+}
+.chirpus {
+    color: #000;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    padding: 5px;
+}
+.latin {
+    border-left: 3px solid #69696a;
+    padding-left: 15px;
+    color: #69696a;
+    margin-top: 20px;
+}
+h3 {
+    color:#000;
+}
+
+    
